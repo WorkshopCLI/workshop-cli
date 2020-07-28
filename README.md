@@ -3,27 +3,10 @@ workshop-cli
 
 Workflow generator for Shopify.
 
-[![Version](https://img.shields.io/npm/v/@workshop-cli/workshop-cli.svg)](https://npmjs.org/package/@workshop-cli/workshop-cli)
-[![Downloads/week](https://img.shields.io/npm/dw/@workshop-cli/workshop-cli.svg)](https://npmjs.org/package/@workshop-cli/workshop-cli)
-[![License](https://img.shields.io/npm/l/@workshop-cli/workshop-cli.svg)](https://github.com/WorkshopCLI/workshop-cli/blob/master/LICENSE)
-
 <!-- toc -->
-* [Install](#install)
 * [Usage](#usage)
 * [Commands](#commands)
 <!-- tocstop -->
-
-# Install
-<!-- install -->
-Install with Yarn (suggested):
-```
-yarn global add @workshop-cli/workshop-cli
-```
-
-Install with NPM:
-```
-npm i -g @workshop-cli/workshop-cli
-```
 
 # Usage
 <!-- usage -->
