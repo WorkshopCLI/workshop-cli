@@ -1,7 +1,7 @@
 {
   "name": "@workshop-cli/workshop-cli",
   "description": "Workflow generator for Shopify.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Sam Webbb @salexzee",
   "bin": {
     "workshop": "./bin/run"
@@ -30,7 +30,7 @@
     "/oclif.manifest.json",
     "/src"
   ],
-  "homepage": "https://github.com/salexzee/workshop-cli",
+  "homepage": "https://github.com/WorkshopCLI/workshop-cli",
   "keywords": [
     "oclif"
   ],
@@ -43,7 +43,7 @@
       "@oclif/plugin-help"
     ]
   },
-  "repository": "salexzee/workshop-cli",
+  "repository": "WorkshopCLI/workshop-cli",
   "scripts": {
     "postpack": "rm -f oclif.manifest.json",
     "posttest": "eslint .",
