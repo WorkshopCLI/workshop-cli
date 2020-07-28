@@ -15,7 +15,7 @@ $ npm install -g @workshop-cli/workshop-cli
 $ workshop COMMAND
 running command...
 $ workshop (-v|--version|version)
-@workshop-cli/workshop-cli/0.0.3 darwin-x64 node-v14.5.0
+@workshop-cli/workshop-cli/0.0.4 darwin-x64 node-v14.5.0
 $ workshop --help [COMMAND]
 USAGE
   $ workshop COMMAND
@@ -40,7 +40,7 @@ OPTIONS
   -n, --name=name  (required) [default: workshop-basic-workfow] Project name
 ```
 
-_See code: [src/commands/basic.js](https://github.com/salexzee/workshop-cli/blob/v0.0.3/src/commands/basic.js)_
+_See code: [src/commands/basic.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.4/src/commands/basic.js)_
 
 ## `workshop help [COMMAND]`
 

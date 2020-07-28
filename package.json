@@ -53,7 +53,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "oclif-dev manifest && oclif-dev readme && rm -f oclif.manifest.json"
+      "pre-commit": "oclif-dev manifest && oclif-dev readme && rm -f oclif.manifest.json && git add ."
     }
   }
 }
