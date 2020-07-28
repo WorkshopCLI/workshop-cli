@@ -47,17 +47,56 @@ Installs the [workshop basic](https://github.com/WorkshopCLI/workshop-basic) the
 
 ```
 USAGE
-  $ workshop hello
+  $ workshop basic
 
 OPTIONS
   -n, --name=name  The name of the project that will be created. Default: workshop-basic-workfow
 
 DESCRIPTION
+  Installs the workshop basic theme in your current working directory.
   ...
   When using the `name` option if you want to use spaces or unsupported special characters wrap your name in quotes. Ex. `workshop basic --name "New Project"`
 ```
 
 _See code: [src/commands/basic.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.0/src/commands/basic.js)_
+
+## `workshop standard`
+
+(Not yet implemented) Installs the workshop standard theme in your current working directory.
+
+```
+USAGE
+  $ workshop standard
+
+OPTIONS
+  -n, --name=name  The name of the project that will be created. Default: workshop-standard-workfow
+
+DESCRIPTION
+  Installs the workshop standard theme in your current working directory.
+  ...
+  When using the `name` option if you want to use spaces or unsupported special characters wrap your name in quotes. Ex. `workshop standard --name "New Project"`
+```
+
+_See code: [src/commands/standard.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.0/src/commands/standard.js)_
+
+## `workshop advanced`
+
+(Not yet implemented) Installs the workshop advanced theme in your current working directory.
+
+```
+USAGE
+  $ workshop advanced
+
+OPTIONS
+  -n, --name=name  The name of the project that will be created. Default: workshop-advanced-workfow
+
+DESCRIPTION
+  Installs the workshop advanced theme in your current working directory.
+  ...
+  When using the `name` option if you want to use spaces or unsupported special characters wrap your name in quotes. Ex. `workshop advanced --name "New Project"`
+```
+
+_See code: [src/commands/advanced.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.0/src/commands/advanced.js)_
 
 ## `workshop help [COMMAND]`
 
