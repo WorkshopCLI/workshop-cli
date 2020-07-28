@@ -98,6 +98,25 @@ DESCRIPTION
 
 _See code: [src/commands/advanced.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.0/src/commands/advanced.js)_
 
+## `workshop vue`
+
+(Not yet implemented) Installs the workshop vue theme in your current working directory.
+
+```
+USAGE
+  $ workshop vue
+
+OPTIONS
+  -n, --name=name  The name of the project that will be created. Default: workshop-vue-workfow
+
+DESCRIPTION
+  Installs the workshop vue theme in your current working directory.
+  ...
+  When using the `name` option if you want to use spaces or unsupported special characters wrap your name in quotes. Ex. `workshop vue --name "New Project"`
+```
+
+_See code: [src/commands/vue.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.0/src/commands/vue.js)_
+
 ## `workshop help [COMMAND]`
 
 display help for workshop
