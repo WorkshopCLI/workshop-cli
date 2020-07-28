@@ -3,7 +3,6 @@ workshop-cli
 
 Workflow generator for Shopify.
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/@workshop-cli/workshop-cli.svg)](https://npmjs.org/package/@workshop-cli/workshop-cli)
 [![Downloads/week](https://img.shields.io/npm/dw/@workshop-cli/workshop-cli.svg)](https://npmjs.org/package/@workshop-cli/workshop-cli)
 [![License](https://img.shields.io/npm/l/@workshop-cli/workshop-cli.svg)](https://github.com/@workshop-cli/workshop-cli/blob/master/package.json)
