@@ -4,14 +4,23 @@ workshop-cli
 Workflow generator for Shopify.
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/workshop-cli.svg)](https://npmjs.org/package/workshop-cli)
-[![Downloads/week](https://img.shields.io/npm/dw/workshop-cli.svg)](https://npmjs.org/package/workshop-cli)
-[![License](https://img.shields.io/npm/l/workshop-cli.svg)](https://github.com/salexzee/workshop-cli/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/@workshop-cli/workshop-cli.svg)](https://npmjs.org/package/workshop-cli)
+[![Downloads/week](https://img.shields.io/npm/dw/@workshop-cli/workshop-cli.svg)](https://npmjs.org/package/workshop-cli)
+[![License](https://img.shields.io/npm/l/@workshop-cli/workshop-cli.svg)](https://github.com/salexzee/workshop-cli/blob/master/package.json)
 
 <!-- toc -->
+* [Install](#install)
 * [Usage](#usage)
 * [Commands](#commands)
 <!-- tocstop -->
+
+# Install
+<!-- install -->
+Install with Yarn:
+```
+yarn global add @workshop-cli/workshop-cli
+```
+
 # Usage
 <!-- usage -->
 ```sh-session
@@ -26,28 +35,29 @@ USAGE
 ...
 ```
 <!-- usagestop -->
+
 # Commands
 <!-- commands -->
-* [`workshop hello`](#workshop-hello)
+* [`workshop basic`](#workshop-basic)
 * [`workshop help [COMMAND]`](#workshop-help-command)
 
-## `workshop hello`
+## `workshop basic`
 
-Describe the command here
+Installs the [workshop basic](https://github.com/WorkshopCLI/workshop-basic) theme in your current working directory.
 
 ```
 USAGE
   $ workshop hello
 
 OPTIONS
-  -n, --name=name  name to print
+  -n, --name=name  The name of the project that will be created. Default: workshop-basic-workfow
 
 DESCRIPTION
   ...
-  Extra documentation goes here
+  When using the `name` option if you want to use spaces or unsupported special characters wrap your name in quotes. Ex. `workshop basic --name "New Project"`
 ```
 
-_See code: [src/commands/hello.js](https://github.com/salexzee/workshop-cli/blob/v0.0.0/src/commands/hello.js)_
+_See code: [src/commands/basic.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.0/src/commands/basic.js)_
 
 ## `workshop help [COMMAND]`
 
