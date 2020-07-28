@@ -50,7 +50,7 @@ USAGE
 
 ## `workshop advanced`
 
-Generates a advanced new workflow.
+(Not yet implemented) Generates a advanced new workflow.
 
 ```
 USAGE
@@ -95,7 +95,7 @@ _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.2.3
 
 ## `workshop standard`
 
-Generates a standard new workflow.
+(Not yet implemented) Generates a standard new workflow.
 
 ```
 USAGE
@@ -109,7 +109,7 @@ _See code: [src/commands/standard.js](https://github.com/salexzee/workshop-cli/b
 
 ## `workshop vue`
 
-Generates a vue new workflow.
+(Not yet implemented) Generates a vue new workflow.
 
 ```
 USAGE
