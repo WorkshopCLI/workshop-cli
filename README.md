@@ -15,9 +15,14 @@ Workflow generator for Shopify.
 
 # Install
 <!-- install -->
-Install with Yarn:
+Install with Yarn (suggested):
 ```
 yarn global add @workshop-cli/workshop-cli
+```
+
+Install with NPM:
+```
+npm i -g @workshop-cli/workshop-cli
 ```
 
 # Usage
