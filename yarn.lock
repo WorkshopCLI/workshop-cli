@@ -175,9 +175,9 @@
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
 
 "@workshop-cli/workshop-basic@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@workshop-cli/workshop-basic/-/workshop-basic-1.0.2.tgz#cfff06698cad0b954c7955b8d844e6eaff518126"
-  integrity sha512-wbkC9MCHmZS7syoEo0IwZXpFjmmrigMh2sfseGXlakVeEDF0MsSJzJIcWNUkFxmbeubGycpzb5N3cAdwxOd3cg==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@workshop-cli/workshop-basic/-/workshop-basic-1.0.4.tgz#2c2a1e8e190d30f0a97f559f8fc7f782e325c2bd"
+  integrity sha512-zrxUeQkIl1iNOHNNcaUhRxw92Qt8noXBurPFXSetHWLY5B2VymmWmkPnOJiC/Q4BINxMdIlagbJZrYXUh1vxCw==
 
 acorn-jsx@^5.0.0:
   version "5.2.0"
