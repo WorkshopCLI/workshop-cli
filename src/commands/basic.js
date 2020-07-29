@@ -24,7 +24,7 @@ BasicCommand.flags = {
   name: flags.string({
     char: 'n',
     description: 'Project name',
-    default: 'workshop-basic-workfow',
+    default: 'workshop-basic-workflow',
     required: true,
     parse: parseName,
   }),

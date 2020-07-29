@@ -1,4 +1,4 @@
-workshop-cli
+WorkshopCLI
 ============
 
 Workflow generator for Shopify.
@@ -37,7 +37,7 @@ USAGE
   $ workshop basic
 
 OPTIONS
-  -n, --name=name  (required) [default: workshop-basic-workfow] Project name
+  -n, --name=name  (required) [default: workshop-basic-workflow] Project name
 ```
 
 _See code: [src/commands/basic.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.5/src/commands/basic.js)_
