@@ -1,6 +1,7 @@
 const ncp = require('ncp').ncp
 const workflows = {
   basic: require('@workshop-cli/workshop-basic'),
+  advancedGulp: require('@workshop-cli/workshop-advanced-gulp'),
 }
 
 ncp.limit = 16

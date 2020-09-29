@@ -174,6 +174,11 @@
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
 
+"@workshop-cli/workshop-advanced-gulp@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@workshop-cli/workshop-advanced-gulp/-/workshop-advanced-gulp-1.0.0.tgz#6d75c351ef9b8dab35a971283d114df8576dd4c3"
+  integrity sha512-wWwacgEhEWyJmw3N2MlYrHbaZK5zCRiwLZDRN1PKSiua2pl/dnVtMiRQm4E117z5IyYnn0ewUpWPxujvAx4EEw==
+
 "@workshop-cli/workshop-basic@^1.0.2":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@workshop-cli/workshop-basic/-/workshop-basic-1.0.4.tgz#2c2a1e8e190d30f0a97f559f8fc7f782e325c2bd"

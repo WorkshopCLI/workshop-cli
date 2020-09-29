@@ -1,7 +1,7 @@
 {
   "name": "@workshop-cli/workshop-cli",
   "description": "Workflow generator for Shopify.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "Sam Webbb @salexzee",
   "bin": {
     "workshop": "./bin/run"
@@ -11,6 +11,7 @@
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^2",
+    "@workshop-cli/workshop-advanced-gulp": "^1.0.0",
     "@workshop-cli/workshop-basic": "^1.0.2",
     "ncp": "^2.0.0"
   },

@@ -15,7 +15,7 @@ $ npm install -g @workshop-cli/workshop-cli
 $ workshop COMMAND
 running command...
 $ workshop (-v|--version|version)
-@workshop-cli/workshop-cli/0.0.7 darwin-x64 node-v14.5.0
+@workshop-cli/workshop-cli/0.0.8 darwin-x64 node-v14.5.0
 $ workshop --help [COMMAND]
 USAGE
   $ workshop COMMAND
@@ -25,8 +25,23 @@ USAGE
 
 # Commands
 <!-- commands -->
+* [`workshop advanced-gulp`](#workshop-advanced-gulp)
 * [`workshop basic`](#workshop-basic)
 * [`workshop help [COMMAND]`](#workshop-help-command)
+
+## `workshop advanced-gulp`
+
+Generates a new advanced gulp workflow.
+
+```
+USAGE
+  $ workshop advanced-gulp
+
+OPTIONS
+  -n, --name=name  (required) [default: workshop-advanced-gulp-workflow] Project name
+```
+
+_See code: [src/commands/advanced-gulp.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.8/src/commands/advanced-gulp.js)_
 
 ## `workshop basic`
 
@@ -40,7 +55,7 @@ OPTIONS
   -n, --name=name  (required) [default: workshop-basic-workflow] Project name
 ```
 
-_See code: [src/commands/basic.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.7/src/commands/basic.js)_
+_See code: [src/commands/basic.js](https://github.com/WorkshopCLI/workshop-cli/blob/v0.0.8/src/commands/basic.js)_
 
 ## `workshop help [COMMAND]`
 
