@@ -1,4 +1,5 @@
 const ncp = require('ncp').ncp
+const fs = require('fs')
 const workflows = {
   basic: require('@workshop-cli/workshop-basic'),
   advancedGulp: require('@workshop-cli/workshop-advanced-gulp'),
@@ -13,6 +14,7 @@ const run = (type, destination) => {
       return console.error(err)
     }
 
+    fs.renameSync(`${destination}/gitignore`, `${destination}/.gitignore`)
     console.log('done!')
   })
 }
