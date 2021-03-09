@@ -170,14 +170,14 @@
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
 
 "@workshop-cli/workshop-advanced-gulp@^1.0.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@workshop-cli/workshop-advanced-gulp/-/workshop-advanced-gulp-1.1.0.tgz#21743501020a19e06e145f2c5ce0beae2ad33c4a"
-  integrity sha512-rXyWtz5cDuF/NK5y+i+4CDTCmoxFR/i/FGd7IWWGEgtHcgHIrAQxD0IxcpwKqDYTeIu/UARJfIMq2y+FERGzQQ==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@workshop-cli/workshop-advanced-gulp/-/workshop-advanced-gulp-1.1.1.tgz#bfadf2ec8584c046860c44c2f46b6e843c9eed0b"
+  integrity sha512-rvaGOcA8bOmnuZI8Rlb6P9LhHZ2xy8Hv6z7SoUnIhbTGelwSOYEL/g73O0XkZaZbpzPKZvbKoGrZrs84csrWnQ==
 
 "@workshop-cli/workshop-basic@^1.0.2":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@workshop-cli/workshop-basic/-/workshop-basic-1.0.9.tgz#9fa53991e5cbb7ce19ae23b4b78a94276e96f824"
-  integrity sha512-F1UpFH7cBQJyAdAQrB4qOYxMrbl6V73G/8hAa781s9ulqMabGim3/nKRgVox4e1XjZgg9k5SsIUdLqprh3PFow==
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@workshop-cli/workshop-basic/-/workshop-basic-1.0.10.tgz#876d1f1b6ce15b59cf4ce8a8704611603c73b037"
+  integrity sha512-YdGDdiewgLgvaHmJtceYBqu2TkZ0+SrFmOSVZrE+5cePgXKLB5hpX2X4NVOM1oLEgts1S8qzgAs/PXXx0zdy2g==
 
 acorn-jsx@^5.0.0:
   version "5.3.1"
